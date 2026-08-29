@@ -63,7 +63,7 @@ An end-to-end analytical framework designed to analyze retail patterns, product 
 - Custom DAX KPIs for sales target tracking and dynamic date hierarchies.
 - Comprehensive customer demographic and regional order analytics.
 
-🔗 **Repository:** [AdventureWorks](https://github.com/esraaaragab/AdventureWorks)
+🔗 **Repository:** [AdventureWorks](https://github.com/esraaaragab/AdventureWorks.)
 
 ---
 
